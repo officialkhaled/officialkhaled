@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialkhaled&label=Profile%20views&color=0e75b6&style=flat" alt="officialkhaled" /> </p>
 
-🔭 I’m currently working on **Train Station Management System**
-
 🌱 I’m currently learning **PHP, JS, CSS, React**
 
 👨‍💻 All of my projects are available at [github.com/officialkhaled?tab=repositories]
