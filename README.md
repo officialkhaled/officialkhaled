@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning **PHP, JS, CSS, React**
 
-👨‍💻 All of my projects are available at [https://github.com/officialkhaled?tab=repositories]((https://github.com/officialkhaled?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/officialkhaled?tab=repositories]
 
 📫 How to reach me **khaledhossain778@gmail.com**
 
