@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-computer-programming-defining-software-development%2F&psig=AOvVaw3Lmpl-LJQzot3y0Auj4aGR&ust=1673334453622000&source=images&cd=vfe&ved=2ahUKEwi27u3e9rn8AhX5UGwGHe7hB0sQjRx6BAgAEAo)
 <h1 align="center">Hi 👋, I'm Khaled Hossain</h1>
 <h3 align="center">An enthusiastic CSE Student from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
