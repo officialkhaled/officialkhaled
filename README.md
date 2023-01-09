@@ -1,4 +1,4 @@
-
+![MasterHead](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
 <h1 align="center">Hi 👋, I'm Khaled Hossain</h1>
 <h3 align="center">An enthusiastic CSE Student from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
