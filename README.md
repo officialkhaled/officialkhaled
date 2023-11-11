@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialkhaled&label=Profile%20views&color=0e75b6&style=flat" alt="officialkhaled" /> </p>
 
-🌱 I’m currently learning **PHP, JS, CSS, React**
+🌱 I’m currently learning **JavaScript, ReactJS and .NET(C#)**
 
 👨‍💻 All of my projects are available at https://github.com/officialkhaled?tab=repositories
 
-📫 How to reach me **khaledhossain778@gmail.com**
-
-⚡ Fun fact **I'm a quick learner**
+📫 How to reach me **khaledhossain.dev@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
