@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shortccakee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shortccakee" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/khaledhossain-devacc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="khaledhossain-devacc" height="30" width="40" /></a>
-<a href="https://www.facebook.com/khaledhossain.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khshihab07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khaledhossain-devacc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="khaledhossain-devacc" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khaledhossain.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaledhossain.dev" height="30" width="40" /></a>
 <a href="https://www.instagram.com/khaledhossain.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaledhossain.dev" height="30" width="40" /></a>
 </p>
 
