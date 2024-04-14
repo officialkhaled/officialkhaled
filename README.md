@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Khaled, Software Engineer Intern at Skylark Soft Ltd. 👨‍💻</div>  
+## <div align="center">Greetings, I'm Khaled, a Software Engineer Intern at Skylark Soft Ltd. 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/officialkhaled/inventory-system)  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Laravel and VueJS along with DSA  
   
 
-- ❓ Ask me about anything related to frontend designing and PHP  
+- ❓ Ask me anything related to frontend designing and creative visuals such as Photo/Video editing  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
