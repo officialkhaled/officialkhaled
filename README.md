@@ -6,10 +6,10 @@
 ## <div align="center">Greetings, I'm Khaled, a Junior Software Engineer at Skylark Soft Limited. 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/officialkhaled/inventory-system)  
+- 🔭 I’m currently working on a [Practice Project]([https://github.com/officialkhaled/laravel-tailwind-project])  
   
 
-- 🌱 I’m currently learning Laravel and VueJS along with DSA  
+- 🌱 I’m currently enhancing my knowledge of Laravel and VueJS  
   
 
 - ❓ Ask me anything related to frontend designing and creative visuals such as Photo/Video editing  
