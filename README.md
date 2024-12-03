@@ -6,7 +6,7 @@
 ## <div align="center">Greetings, I'm Khaled, a Junior Software Engineer at Skylark Soft Limited. 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on a [Practice Project]([https://github.com/officialkhaled/laravel-tailwind-project])  
+- 🔭 I’m currently working on a [Let's Teach App]([[https://github.com/officialkhaled/laravel-tailwind-project](https://github.com/officialkhaled/lets-teach-app)])  
   
 
 - 🌱 I’m currently enhancing my knowledge of Laravel and VueJS  
