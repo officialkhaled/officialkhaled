@@ -6,10 +6,10 @@
 ## <div align="center">Greetings, I'm Khaled, a Junior Software Engineer at Skylark Soft Limited. 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on a [Let's Teach App](https://github.com/officialkhaled/lets-teach-app)  
+- 🔭 I’m currently working on a Tutor Hiring Platform -> [Let's Teach App](https://github.com/officialkhaled/lets-teach-app)  
   
 
-- 🌱 I’m currently enhancing my knowledge of Laravel and VueJS  
+- 🌱 Enhancing my Laravel and VueJS knowledge
   
 
 - ❓ Ask me anything related to frontend designing and creative visuals such as Photo/Video editing  
