@@ -3,7 +3,7 @@
 </div>   
   
 
-## <div align="center">Greetings, I'm Khaled, a Junior Software Engineer at Skylark Soft Limited. 👨‍💻</div>  
+## <div align="center">👨‍💻 Hello World, I'm Khaled, a Junior Software Engineer at Skylark Soft Limited.</div>  
   
 
 - 🔭 I’m currently working on a Tutor Hiring Platform: [Let's Teach App](https://github.com/officialkhaled/lets-teach-app)  
