@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a Tutor Hiring Platform: [Let's Teach App](https://github.com/officialkhaled/lets-teach-app)  
   
 
-- 🌱 Enhancing my Laravel and VueJS knowledge
+- 🌱 Enhancing my Laravel and Vue.js mastery
   
 
 - ❓ Ask me anything related to frontend designing and creative visuals such as Photo/Video editing  
