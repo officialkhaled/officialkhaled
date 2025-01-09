@@ -6,7 +6,10 @@
 ## <div align="center">👨‍💻 Hello World, I'm Khaled, a Junior Software Engineer at Skylark Soft Limited.</div>  
   
 
-- 🔭 I’m currently working on a Tutor Hiring Platform: [Let's Teach App](https://github.com/officialkhaled/lets-teach-app)  
+- 🔭 I’m currently working on a Tutor Hiring Platform: [Let's Teach App](https://github.com/officialkhaled/lets-teach-app)
+
+
+- 🔭 Check out the custom CSS and JavaScript components collection to enhance your web projects: [Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury)  
   
 
 - 🌱 Enhancing my Laravel and Vue.js mastery
