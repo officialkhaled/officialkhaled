@@ -107,6 +107,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=officialkhaled&&style=flat-square" align="center" />
   <br>
+  <p>Profile Views since February 2025</p>
+  <br>
   <img src="https://profile-counter.glitch.me/officialkhaled/count.svg" />
 </div>  
 
