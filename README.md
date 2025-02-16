@@ -104,8 +104,9 @@
 
 <br/>  
 
-<div align="center" style="display: flex; gap: 4px;">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=officialkhaled&&style=flat-square" align="center" />
+  <br>
   <img src="https://profile-counter.glitch.me/officialkhaled/count.svg" />
 </div>  
 
