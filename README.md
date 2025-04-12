@@ -7,7 +7,7 @@
 ## <div align="center">👨‍💻 Hello World, I'm Khaled, a Software Engineer from Dhaka, Bangladesh.</div>  
   
 
-- 🔭 I’m currently working on a Tutor Hiring Platform: [Book Store App](https://github.com/officialkhaled/online-book-store)
+- 🔭 I’m currently working on an Online Book Store
 
 
 - 🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: [Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury)  
