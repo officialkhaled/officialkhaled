@@ -7,19 +7,19 @@
 ## <div align="center">👨‍💻 Hello World, I'm Khaled, a Software Engineer from Dhaka, Bangladesh.</div>  
   
 
-- 🔭 I’m currently working on an **Online Book Store** 
+- 🔭 I’m currently working on an **Online Book Store**.
 
 
-- 🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: [Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury)  
+- 🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: [Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury).
   
 
-- 🌱 Enhancing my Laravel and Vue.js mastery
+- 🌱 Enhancing my Laravel and Vue.js mastery.
   
 
-- ❓ Ask me anything related to front-end designing and creative visuals such as Photo/Video editing  
+- ❓ Ask me anything related to front-end designing and creative visuals, such as Photo/Video editing.
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces.  
   
 
 <br/>  
