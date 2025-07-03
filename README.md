@@ -13,10 +13,7 @@
 - 🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: [Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury).
   
 
-- 🌱 Enhancing my Laravel and Vue.js mastery.
-  
-
-- ❓ Ask me anything related to front-end designing and creative visuals, such as Photo/Video editing.
+- 🌱 Enhancing my Laravel, React.js, Vue.js, and Next.js mastery.
   
 
 - ⚡ Fun fact: I use tabs over spaces.  
