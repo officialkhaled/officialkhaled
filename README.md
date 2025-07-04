@@ -1,7 +1,6 @@
 <div align="center">
 <!-- <img src="" align="center" style="width: 100%" /> -->
 </div>   
-
   
 
 ## <div align="center">👨‍💻 Hello World, I'm Khaled, a Software Engineer from Dhaka, Bangladesh.</div>  
