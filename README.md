@@ -5,7 +5,6 @@
 
 ## <div align="center">👨‍💻 Hello World, I'm Khaled, a Software Engineer from Dhaka, Bangladesh.</div>  
   
-# 💫 About Me:
 🔭 I’m currently working on HouseHub Application.<br><br>🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: Dev UI Treasury.<br><br>🌱 Enhancing my Laravel, React.js, Vue.js, and Next.js mastery.<br><br>⚡ Fun fact: I use tabs over spaces.
 
 
