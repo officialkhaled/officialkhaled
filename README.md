@@ -1,7 +1,7 @@
 
 ## <div align="center">👨‍💻 Hello World, I'm Khaled, a Software Engineer from Dhaka, Bangladesh.</div>  
   
-🔭 I’m currently working on the **[HouseHub Application](https://github.com/officialkhaled/househub-app)**.<br><br>🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: **[Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury)**.<br><br>🌱 Enhancing my Laravel, React.js, Vue.js, and Next.js mastery.<br><br>⚡ Fun fact: I use tabs over spaces.
+🔭 I’m currently learning **AI & Machine Learning**.<br><br>🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: **[Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury)**.<br><br>🌱 Enhancing my Python mastery.<br><br>⚡ Fun fact: I use tabs over spaces.
 
 
 ## 🌐 Socials:
