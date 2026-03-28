@@ -1,7 +1,7 @@
 
-## <div align="center">👨‍💻 Hello World, I'm Khaled, a Software Engineer from Dhaka, Bangladesh.</div>  
+## <div align="center">👨‍💻 Hello World, I'm Khaled, a Software Engineer (DevOps focused)</div>  
   
-🔭 I’m currently learning **AI & Machine Learning**.<br><br>🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: **[Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury)**.<br><br>🌱 Enhancing my Python mastery.<br><br>⚡ Fun fact: I use tabs over spaces.
+🔭 I’m currently improving my knowledge of **DevOps & Cloud**.<br><br>🎁 Check out the custom CSS and JavaScript components collection to enhance your web projects: **[Dev UI Treasury](https://github.com/officialkhaled/Dev-UI-Treasury)**.<br><br>🌱 Enhancing my Python mastery.<br><br>⚡ Fun fact: I use tabs over spaces.
 
 
 ## 🌐 Socials:
