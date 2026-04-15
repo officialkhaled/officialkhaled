@@ -1,5 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Khaled%20Hossain&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
-
+# Khaled Hossain
+### Software Engineer
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
