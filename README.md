@@ -26,7 +26,7 @@
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
-<p align="center">
+<p style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
