@@ -1,7 +1,13 @@
 # Khaled Hossain
 ### Software Engineer
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+<!-- <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" /> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="officialkhaled's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ## 📌 About Me
 - 🔭 I’m currently improving my knowledge of DevOps & Cloud.
